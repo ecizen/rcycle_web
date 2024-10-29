@@ -1,0 +1,19 @@
+.right {
+    background-image: url('../assets/Image/uiRight2.svg');
+    width: auto;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 20px;
+}
+
+.mobile_background{
+    background-image: url('../assets/Image/uiRight2.svg');
+    width: auto;
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+   
+}
